@@ -1,5 +1,6 @@
 # Jheicanama
-Grupo criando em função do projeto intregador Scrum
+Grupo criando em função do projeto intregador
+Metodologias agéis usadas : Scrum
 Cassandra - Scrum Master
 Ícaro - Desenvolvedor
 Maria - Desenvolvedor
